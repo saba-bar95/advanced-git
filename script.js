@@ -1,5 +1,5 @@
 function print() {
-  console.log("new");
+  console.log("main");
 }
 
 print();
