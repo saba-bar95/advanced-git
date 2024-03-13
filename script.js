@@ -1,5 +1,5 @@
 function print() {
-  console.log("smth");
+  console.log("new");
 }
 
 print();
